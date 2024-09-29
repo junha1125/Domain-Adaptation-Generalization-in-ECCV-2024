@@ -9,6 +9,12 @@
 
 
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQGYcjwWyf7aFw/feedshare-shrink_800/feedshare-shrink_800/0/1727278329558?e=1730332800&v=beta&t=T4Y-FJBMX5_l4Y1BJ1-dZwjL0E7Ds7ga0FiksdIyTxg" width="40%" alt="ECCV_LOGO">
+</p>
+
+
+
 ## Mon 30 Sep. Workshops & Tutorials
 
 1. \[Workshop\] Out-of-Distribution Generalization in Computer Vision Foundation Models \[[Website](https://www.ood-cv.org/)\]  
