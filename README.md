@@ -85,8 +85,6 @@
     Location: # 3
 7. Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10845_ECCV_2024_paper.php)]  
     Location: # 5
-8. Feature Diversification and Adaptation for Federated Domain Generalization [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9073_ECCV_2024_paper.php)]  
-    Location: # 10
 
 
 
